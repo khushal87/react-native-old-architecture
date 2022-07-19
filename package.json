@@ -1,0 +1,35 @@
+{
+    "name": "react-native-old-architecture",
+    "version": "0.0.1",
+    "description": "Showcase Fabric component with backward compatibility",
+    "react-native": "src/index",
+    "source": "src/index",
+    "files": [
+        "src",
+        "android",
+        "ios",
+        "react-native-old-architecture.podspec",
+        "!android/build",
+        "!ios/build",
+        "!**/__tests__",
+        "!**/__fixtures__",
+        "!**/__mocks__"
+    ],
+    "keywords": [
+        "react-native",
+        "ios",
+        "android"
+    ],
+    "repository": "https://github.com/khushal87/react-native-old-architecture",
+    "author": "Khushal Agarrwal khushal.agarwal987@gmail.com (https://github.com/khushal87)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/khushal87/react-native-old-architecture/issues"
+    },
+    "homepage": "https://github.com/khushal87/react-native-old-architecture#readme",
+    "devDependencies": {},
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*"
+    }
+}
